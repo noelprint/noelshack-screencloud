@@ -10,7 +10,7 @@ Overview:
 
 Installation:
 
-Copy the "noelshack" folder in ScreenCloud's plugins directory. You can find this folde in these paths regarding of your OS.
+Copy the "noelshack" folder in ScreenCloud's plugins directory. You can find this folde in these paths regarding of your OS:
 
 - Windows: %LOCALAPPDATA%\screencloud\ScreenCloud
 - Linux: ~/.local/share/data/screencloud/ScreenCloud
