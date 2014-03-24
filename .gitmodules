@@ -1,0 +1,6 @@
+[submodule "deps/pynoelshack"]
+	path = deps/pynoelshack
+	url = https://github.com/noelprint/pynoelshack.git
+[submodule "deps/requests"]
+	path = deps/requests
+	url = https://github.com/kennethreitz/requests.git
