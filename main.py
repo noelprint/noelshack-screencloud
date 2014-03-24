@@ -15,8 +15,7 @@ class NoelShackUploader():
         return True
 
     def getFilename(self):
-        timestamp = int(time.time())
-        return ScreenCloud.formatFilename(str(timestamp))
+        return ScreenCloud.formatFilename('screenshot')
 
     def upload(self, screenshot, name):
         temp = QDesktopServices.storageLocation(QDesktopServices.TempLocation)

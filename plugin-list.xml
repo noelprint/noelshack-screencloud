@@ -5,7 +5,7 @@
     <shortname>noelshack</shortname>
     <description>Upload to NoelShack</description>
     <author>NoelPrint</author>
-    <version>2.1</version>
+    <version>2.2</version>
     <category>online</category>
     <icon>https://raw.githubusercontent.com/noelprint/noelshack-screencloud/master/icon.png</icon>
     <weblink>https://github.com/noelprint/noelshack-screencloud</weblink>
