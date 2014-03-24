@@ -15,7 +15,7 @@ class NoelShackUploader():
         return True
 
     def getFilename(self):
-        timestamp = time.time()
+        timestamp = int(time.time())
         return ScreenCloud.formatFilename(str(timestamp))
 
     def upload(self, screenshot, name):
