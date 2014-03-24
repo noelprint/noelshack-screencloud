@@ -3,6 +3,15 @@ NoelShack ScreenCloud
 
 A NoelShack driver for ScreenCloud.
 
+Overview
+--------
+
+### Preferences Panel
+![Preferences panel](http://image.noelshack.com/fichiers/2014/13/1395699681-screenshot.png)
+
+### Save Prompt
+![Save prompt](http://image.noelshack.com/fichiers/2014/13/1395699701-screenshot.png)
+
 Dependencies
 ------------
 
