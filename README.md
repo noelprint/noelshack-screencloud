@@ -15,6 +15,9 @@ Overview
 Dependencies
 ------------
 
+*Note these dependencies are already packaged in this repository as Git
+submodules, and statically provided in the `current.zip` archive.*
+
 * [PyNoelShack](https://github.com/noelprint/pynoelshack)
 * [Requests](http://python-requests.org/)
 
