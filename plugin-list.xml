@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin>
+    <name>NoelShack</name>
+    <shortname>noelshack</shortname>
+    <description>Upload to NoelShack</description>
+    <author>NoelPrint</author>
+    <version>2.0</version>
+    <category>online</category>
+    <icon>https://raw.githubusercontent.com/noelprint/noelshack-screencloud/master/icon.png</icon>
+    <weblink>https://github.com/noelprint/noelshack-screencloud</weblink>
+    <download>https://raw.githubusercontent.com/noelprint/noelshack-screencloud/master/current.zip</download>
+  </plugin>
+</plugins>
